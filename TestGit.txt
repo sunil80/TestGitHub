@@ -1,2 +1,7 @@
 hi welcome all
+<<<<<<< HEAD
 sunil added one more line
+=======
+
+hi sunil.....
+>>>>>>> a5a3614de4f108aaf66a946b8da8ec0e6b4a2f1e
